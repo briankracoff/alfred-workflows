@@ -35,8 +35,8 @@ Usage:
     dow dateString
 
 Example 1 (today's day of week):
+
     dow
-    
     
 Example 2 (day of week of 11/11/1991):
 
