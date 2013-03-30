@@ -28,7 +28,7 @@ or
 day-of-week
 ====================
 
-Get the day of the week for a given date
+1. Get the day of the week for a given date
 
 Usage:
 
@@ -45,3 +45,18 @@ Example 2 (day of week of 11/11/1991):
 Example 3 (day of week that is 3 days from now):
 
     dow 3 days
+    
+
+2. Get the date for a given relative date string
+
+Usage:
+
+    date dateString
+    
+Example 1 (today's date):
+    
+    date
+
+Example 2 (last tuesday's date):
+
+    date last tuesday
