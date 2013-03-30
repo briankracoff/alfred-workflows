@@ -6,57 +6,61 @@ Alfred workflow for opening a terminal window at the desired folder
 Usage:
 
     cd mydirectory
-
+    
+___
 
 open-in-sublime
 ======================
 
 Opens a file/folder in Sublime Text 2
 
-Usage:
+**Usage**:
 
     subl file-or-folder
     
-Example:
+**Example**:
 
     subl test.py
     
-or
+**or**
 
     subl myfolder
+    
+___
     
 day-of-week
 ====================
 
-1. Get the day of the week for a given date
 
-Usage:
+### 1. Get the day of the week for a given date
+
+**Usage**:
 
     dow dateString
 
-Example 1 (today's day of week):
+**Example 1** (today's day of week):
 
     dow
     
-Example 2 (day of week of 11/11/1991):
+**Example 2** (day of week of 11/11/1991):
 
     dow 11/11/1991
     
-Example 3 (day of week that is 3 days from now):
+**Example 3** (day of week that is 3 days from now):
 
     dow 3 days
     
 
-2. Get the date for a given relative date string
+### 2. Get the date for a given relative date string
 
-Usage:
+**Usage**:
 
     date dateString
     
-Example 1 (today's date):
+**Example 1** (today's date):
     
     date
 
-Example 2 (last tuesday's date):
+**Example 2** (last tuesday's date):
 
     date last tuesday
