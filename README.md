@@ -1,5 +1,8 @@
-cd-to-directory
-===============
+#alfred-workflows
+
+Workflows to extend the capability of [Alfred v2](http://www.alfredapp.com/).
+
+##cd-to-directory
 
 Alfred workflow for opening a terminal window at the desired folder
 
@@ -7,10 +10,8 @@ Usage:
 
     cd mydirectory
     
-___
 
-open-in-sublime
-======================
+##open-in-sublime
 
 Opens a file/folder in Sublime Text 2
 
@@ -26,11 +27,8 @@ Opens a file/folder in Sublime Text 2
 
     subl myfolder
     
-___
-    
-day-of-week
-====================
 
+##day-of-week
 
 ### 1. Get the day of the week for a given date
 
