@@ -1,6 +1,6 @@
 #alfred-workflows
 
-Workflows to extend the capability of [Alfred v2](http://www.alfredapp.com/).
+Workflows to extend the capabilities of [Alfred v2](http://www.alfredapp.com/).
 
 ##cd-to-directory
 
